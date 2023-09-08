@@ -5,7 +5,7 @@ print()
 d = input('What word describes burned food? > ')
 e = input('Name a DIY item > ')
 print()
-print('MENU')
+print('MENU.')
 print(f'''
 {c} {a} with {d} {b} on a bed of {e}
 ''')
